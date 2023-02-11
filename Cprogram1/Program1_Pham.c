@@ -42,7 +42,6 @@ int main()
         {
             printf("%s\t%.2f\n", month_names[i], month_sales_data[i]);
         }
-        
     }
 
 
